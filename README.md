@@ -4,7 +4,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxronney1/)
 
-![MaxRonnes GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxRonnes&show_icons=true&theme=cobalt)
+![MaxRonnes GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxRonnes&show_icons=true&theme=dark)
+
 
 ## Tecnologias que estou aprendendo.
 
