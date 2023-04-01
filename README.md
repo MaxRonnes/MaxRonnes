@@ -8,9 +8,8 @@
 
 ## Tecnologias que estou aprendendo.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-"/>
+<di style="display: inline_block"><br/>
+    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <div><br/>
 
 Qualquer comentario que venha em forma de crítica construtiva será sempre bem vindo. Acho válido e sei receber como forma de agregar na minha jornada de aprendiz.
