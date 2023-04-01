@@ -13,4 +13,4 @@
 "/>
 <div><br/>
 
-Qualquer comentario que venha em forma de crítica construtiva será sempre bem vindo. Acho válido e sei receber para ageregar na minha jornada de aprendiz.
+Qualquer comentario que venha em forma de crítica construtiva será sempre bem vindo. Acho válido e sei receber como forma de agregar na minha jornada de aprendiz.
